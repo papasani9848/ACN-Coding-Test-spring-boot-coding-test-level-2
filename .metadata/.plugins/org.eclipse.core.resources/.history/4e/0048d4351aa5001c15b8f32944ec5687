@@ -1,0 +1,5 @@
+package com.accenture.codingtest.springbootcodingtest.entity;
+
+public class User {
+
+}

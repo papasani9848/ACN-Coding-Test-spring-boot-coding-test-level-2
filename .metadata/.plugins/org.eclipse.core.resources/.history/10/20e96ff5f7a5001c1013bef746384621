@@ -1,0 +1,8 @@
+package com.accenture.codingtest.springbootcodingtest.service;
+
+import com.accenture.codingtest.springbootcodingtest.entity.User;
+
+public interface UserService {
+	public User createUser(User user);
+	public User getUserById(Long id);
+}

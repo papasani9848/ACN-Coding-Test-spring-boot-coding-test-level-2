@@ -1,0 +1,2021 @@
+!SESSION 2022-03-16 18:18:19.705 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_MY
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-03-16 18:19:20.679
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-03-16 18:19:20.679
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@14bf9fd0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@391e5ffa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-03-16 18:19:25.227
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Owner'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2022-03-16 18:28:19.722
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2-main'
+
+!ENTRY Activator 1 0 2022-03-16 18:28:21.073
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2-main'
+
+!ENTRY Activator 1 0 2022-03-16 18:30:38.011
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2-main'
+
+!ENTRY Activator 1 0 2022-03-16 18:30:38.449
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2-main'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:36.338
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:36.339
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@72661f24[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:36.348
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2022-03-16 18:32:36.364
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2-main'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:36.388
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.425
+!MESSAGE Boot LS startup time from start to initialized: 3062ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.531
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jPMkQzeEisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.534
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.538
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.539
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.540
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.541
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jPMkQzeE => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.548
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.552
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2-main false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:39.553
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:32:40.006
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-03-16 18:47:41.534
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:48:04.623
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:48:04.624
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2-main true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:48:04.626
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:48:04.641
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 18:50:43.180
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:50:43.181
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:50:43.188
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:50:43.196
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:50:43.198
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 18:50:43.232
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 18:50:43.561
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 18:50:44.410
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 18:51:50.553
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 18:51:51.175
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-16 19:02:35.671
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-16 19:06:47.174
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY Activator 1 0 2022-03-16 19:09:14.534
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:09:15.156
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:14:13.276
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:14:13.861
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:15:37.121
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:15:41.085
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:18:07.644
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:18:09.353
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:18:38.452
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:18:38.453
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:18:38.458
+!MESSAGE classpath=58 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:18:38.462
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 58
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:18:38.464
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:18:38.544
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:18:39.307
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:18:39.418
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:19:11.142
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:19:11.144
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:19:11.152
+!MESSAGE classpath=58 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:19:11.157
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 58
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:19:11.158
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:19:11.180
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:19:11.400
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:22.298
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:20:23.258
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.2.2.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:20:23.918
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:24.334
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:24.335
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:24.340
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:24.343
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:24.344
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:24.368
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:20:24.549
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:20:24.843
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.2.2.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:20:25.388
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-16 19:20:37.413
+!MESSAGE Could not download sources for org.springframework.data:spring-boot-starter-data-jpa:2.2.2.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.2.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.2.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-03-16 19:20:37.414
+!MESSAGE Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.2.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-03-16 19:20:37.414
+!MESSAGE Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.2.RELEASE
+
+!ENTRY Activator 1 0 2022-03-16 19:20:41.367
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:41.524
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:42.019
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:44.026
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:44.251
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:44.252
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:44.258
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:44.265
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:44.266
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:20:44.293
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:20:44.450
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:45.482
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:20:56.784
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:21:00.505
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:21:00.953
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.2.3.RELEASE is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:21:02.363
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.2.3.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:21:02.968
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:21:03.347
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:03.348
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:03.352
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:03.357
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:03.358
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:03.383
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:21:03.520
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:21:04.335
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.2.3.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:21:04.353
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-16 19:21:05.629
+!MESSAGE Could not download sources for org.springframework.data:spring-boot-starter-data-jpa:2.2.3.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.3.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.3.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-03-16 19:21:05.629
+!MESSAGE Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.3.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-03-16 19:21:05.629
+!MESSAGE Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.2.3.RELEASE
+
+!ENTRY Activator 1 0 2022-03-16 19:21:13.913
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:21:14.798
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.6.3.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:21:15.664
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:15.665
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:15.669
+!MESSAGE classpath=53 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:15.672
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:15.673
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:21:15.693
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:21:15.839
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-03-16 19:21:16.217
+!MESSAGE The POM for org.springframework.data:spring-boot-starter-data-jpa:jar:2.6.3.RELEASE is missing, no dependency information available
+
+!ENTRY Activator 1 0 2022-03-16 19:21:16.670
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-16 19:21:17.417
+!MESSAGE Could not download sources for org.springframework.data:spring-boot-starter-data-jpa:2.6.3.RELEASE
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.6.3.RELEASE
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.6.3.RELEASE
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-03-16 19:21:17.417
+!MESSAGE Could not resolve artifact org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.6.3.RELEASE
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-03-16 19:21:17.417
+!MESSAGE Missing org.springframework.data:spring-boot-starter-data-jpa:jar:sources:2.6.3.RELEASE
+
+!ENTRY Activator 1 0 2022-03-16 19:22:35.230
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:22:36.881
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:22:37.334
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:22:37.335
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:22:37.340
+!MESSAGE classpath=52 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:22:37.344
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 52
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:22:37.345
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:22:37.379
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:22:37.562
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:22:38.956
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:23:49.991
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:23:51.708
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:24:51.670
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:24:51.672
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:24:51.677
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:24:51.682
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:24:51.683
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:24:51.722
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:24:52.431
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:24:52.512
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-16 19:26:11.761
+!MESSAGE Could not download sources for mysql:mysql-connector-java:5.1.6
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:sources:5.1.6
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing mysql:mysql-connector-java:jar:sources:5.1.6
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-03-16 19:26:11.762
+!MESSAGE Could not resolve artifact mysql:mysql-connector-java:jar:sources:5.1.6
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-03-16 19:26:11.762
+!MESSAGE Missing mysql:mysql-connector-java:jar:sources:5.1.6
+
+!ENTRY Activator 1 0 2022-03-16 19:26:12.064
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:26:12.067
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:26:12.072
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:26:12.077
+!MESSAGE buffering callback sts4.classpath.jPMkQzeE spring-boot-coding-test-level-2 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:26:12.079
+!MESSAGE executing callback sts4.classpath.jPMkQzeE 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 19:26:12.106
+!MESSAGE executing callback sts4.classpath.jPMkQzeE SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-16 19:26:12.295
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-16 19:26:15.520
+!MESSAGE Could not download javadoc for mysql:mysql-connector-java:5.1.6
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:5.1.6
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:804)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:772)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:749)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:316)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing mysql:mysql-connector-java:jar:javadoc:5.1.6
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2022-03-16 19:26:15.521
+!MESSAGE Could not resolve artifact mysql:mysql-connector-java:jar:javadoc:5.1.6
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2022-03-16 19:26:15.521
+!MESSAGE Missing mysql:mysql-connector-java:jar:javadoc:5.1.6
+
+!ENTRY Activator 1 0 2022-03-16 19:26:26.926
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:26:27.532
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:28:52.511
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:28:53.186
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:29:19.322
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:29:19.975
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:30:08.936
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:30:09.762
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:30:14.074
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:30:14.722
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:34:13.869
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:34:14.566
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:38:19.479
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:38:20.157
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:47:55.489
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:47:56.150
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:59:37.572
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-16 19:59:38.160
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+!SESSION 2022-03-16 19:59:55.046 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_MY
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-03-16 19:59:59.342
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-03-16 19:59:59.342
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4070c4ff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4bceac99,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:05.422
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:05.423
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@7036792b[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:05.427
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:05.473
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2022-03-16 20:00:07.645
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-03-16 20:00:07.737
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Owner'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:10.873
+!MESSAGE Boot LS startup time from start to initialized: 5435ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.041
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sYMQmPvoisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.046
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.054
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.056
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.057
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.058
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.sYMQmPvo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.071
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.076
+!MESSAGE buffering callback sts4.classpath.sYMQmPvo spring-boot-coding-test-level-2 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.077
+!MESSAGE executing callback sts4.classpath.sYMQmPvo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:00:11.512
+!MESSAGE executing callback sts4.classpath.sYMQmPvo SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-03-16 20:00:33.159
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.equinox.security 1 0 2022-03-16 20:01:19.616
+!MESSAGE New keyring password generated. 
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-16 20:01:33.433
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-16 20:07:39.679
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:31:24.846
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sYMQmPvo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:31:24.847
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.sYMQmPvo
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:31:24.849
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-16 20:31:24.850
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.sYMQmPvo => OK
+!SESSION 2022-03-17 16:07:57.540 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_MY
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2022-03-17 16:08:04.138
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2022-03-17 16:08:04.138
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e01b195,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@59a3eaf7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:10.080
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:10.082
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3cdbcf79[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:10.093
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:10.156
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2022-03-17 16:08:13.047
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.egit.ui 2 0 2022-03-17 16:08:13.262
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Owner'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.485
+!MESSAGE Boot LS startup time from start to initialized: 6383ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.566
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jiOoPbUoisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.572
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.575
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.576
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.577
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.577
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.jiOoPbUo => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.594
+!MESSAGE classpath=74 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.598
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 74
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.599
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 16:08:16.916
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-03-17 16:34:37.199
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-17 16:38:35.976
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-17 16:44:53.150
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-17 18:02:19.500
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2022-03-17 18:16:13.659
+!MESSAGE An exception occurred during push on URI https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/ACN-Coding-Test/spring-boot-coding-test-level-2.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:685)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:627)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:541)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:127)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1384)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:191)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:210)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY Activator 1 0 2022-03-17 20:07:39.472
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:07:41.130
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:07:41.856
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 20:08:32.470
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 20:08:50.956
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:08:51.583
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:10:23.865
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:10:24.486
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:13:32.899
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:13:33.482
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 20:14:55.763
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 20:20:54.541
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:20:55.195
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:48:15.701
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 20:48:16.344
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:07:34.315
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:07:34.940
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:08:22.363
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:08:22.990
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:32.135
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:33.049
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:33.213
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:45.213
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:45.820
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:45.903
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:53.411
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:12:55.071
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:13:11.936
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:11.937
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:11.940
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:11.943
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:11.944
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:12.002
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:13:12.782
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:13:13.192
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:13:42.736
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:42.737
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:42.743
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:42.748
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:42.750
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:13:42.783
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:13:42.998
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:13:55.832
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:13:56.412
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:14:25.422
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:14:26.054
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:14:35.581
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:14:36.208
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:16.352
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:16.983
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:31.636
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:32.216
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:51.161
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:15:51.795
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:16:23.227
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:16:23.852
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:17:11.351
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:17:11.947
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:31.115
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:32.773
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:36.783
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:36.787
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:36.817
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:36.821
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:36.822
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:36.847
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:18:37.693
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:38.111
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:41.834
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:41.835
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:41.842
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:41.858
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:41.859
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:18:41.891
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:18:42.086
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:51.872
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:52.469
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:58.558
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:59.171
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:18:59.302
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:19:32.116
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:19:32.738
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:21:12.180
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:21:12.813
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:21:23.042
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:21:23.671
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:23:56.812
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:23:57.449
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:24:12.010
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:24:12.644
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:25:27.353
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:25:27.982
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:28:28.673
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:28:31.031
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:29:29.778
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:29:42.793
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:29:42.872
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:29:52.386
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:05.509
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:07.120
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:08.555
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:30:08.556
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:30:08.560
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:30:08.564
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:30:08.565
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.eclipse.m2e.jdt 4 -1 2022-03-17 21:30:08.571
+!MESSAGE Could not download sources or javadoc
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2022-03-17 21:30:08.571
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2022-03-17 21:30:08.571
+!MESSAGE Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 28, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 32, column 15
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 28, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 32, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:30:08.607
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:30:09.224
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:09.806
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:40.510
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:49.546
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:49.985
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:50.606
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:52.460
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2022-03-17 21:30:52.573
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/spring-boot-coding-test-level-2/pom.xml)
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2022-03-17 21:30:52.574
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2022-03-17 21:30:52.574
+!MESSAGE Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2022-03-17 21:30:54.082
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:30:54.374
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.m2e.jdt 4 -1 2022-03-17 21:30:54.942
+!MESSAGE Could not download sources or javadoc
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2022-03-17 21:30:54.942
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2022-03-17 21:30:54.942
+!MESSAGE Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-oauth2:jar is missing. @ line 29, column 15
+[ERROR] 'dependencies.dependency.version' for org.springframework.cloud:spring-cloud-starter-security:jar is missing. @ line 33, column 15
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2022-03-17 21:31:02.124
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:03.423
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:05.627
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:11.665
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:15.868
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:17.488
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:17.636
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:33.572
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:35.233
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:31:35.432
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:31:35.433
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:31:35.436
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:31:35.443
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:31:35.444
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:31:35.463
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:31:35.651
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:33:33.780
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:33:34.364
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:33:39.853
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:33:39.854
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:33:39.860
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:33:39.867
+!MESSAGE buffering callback sts4.classpath.jiOoPbUo spring-boot-coding-test-level-2 false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:33:39.868
+!MESSAGE executing callback sts4.classpath.jiOoPbUo 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-17 21:33:39.888
+!MESSAGE executing callback sts4.classpath.jiOoPbUo SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-03-17 21:33:40.064
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:34:49.111
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:34:49.716
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:34:52.716
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:34:53.360
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:35:05.562
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:35:06.154
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:36:30.816
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:36:31.455
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:36:59.097
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:36:59.737
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:37:24.385
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:37:25.026
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:39:10.325
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:39:10.984
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:39:34.430
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:39:35.016
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:39:59.624
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:40:00.247
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:41:33.498
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:41:34.095
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:42:01.299
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:42:01.937
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:43:29.912
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 21:43:30.548
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:17:47.639
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:17:48.248
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 22:18:37.312
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 22:21:06.295
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:21:06.937
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:22:08.083
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:22:08.728
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:24:11.369
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:24:11.972
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:24:35.842
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:24:36.491
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:25:27.202
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:25:27.846
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:29:10.712
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:29:11.316
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:30:10.516
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:30:11.119
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:31:39.483
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:31:40.118
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:32:10.197
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:32:10.831
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:33:02.160
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 22:33:02.666
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 22:33:02.801
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:33:49.462
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 22:33:49.971
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 22:33:50.063
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:36:01.808
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:36:02.455
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:36:26.515
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:36:27.172
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:37:57.678
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:37:58.325
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:38:18.700
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:38:19.348
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 22:39:09.344
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 22:40:18.380
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:40:19.033
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:41:57.145
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:41:57.798
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:42:33.726
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:42:34.352
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:45:06.128
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:45:06.780
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:45:22.410
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:45:23.054
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:47:59.910
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:48:00.560
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:48:10.443
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:48:11.087
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:48:33.066
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:48:33.669
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:49:17.885
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:49:18.470
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:51:37.706
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:51:38.367
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:56:52.289
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:56:52.906
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:57:27.685
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:57:28.286
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:58:46.608
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:58:47.254
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:59:07.460
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 22:59:08.061
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:02:15.954
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:02:16.595
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:11:51.614
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:11:52.257
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:13:44.583
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:13:45.227
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:13:54.363
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:13:55.014
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:30:32.612
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:30:33.316
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-03-17 23:36:07.137
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-03-17 23:38:13.300
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:38:13.904
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:39:27.577
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:39:28.218
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:44:15.200
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:44:15.796
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:47:32.399
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:47:33.041
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:48:41.799
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:48:42.447
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:50:20.583
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:50:21.228
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:56:04.943
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:56:05.556
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:57:28.949
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:57:29.549
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:57:50.389
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-17 23:57:51.057
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:04:43.122
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:04:43.770
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:06:07.130
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:06:07.774
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:09:09.083
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:09:09.730
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:09:26.947
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:09:27.587
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:28.270
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:28.874
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:31.830
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:32.477
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:43.809
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:10:44.454
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:11:06.092
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:11:06.733
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:16:48.759
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:16:49.360
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:17:09.484
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:17:10.131
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:18:13.176
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:18:13.782
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:18:26.163
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:18:26.805
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:22:09.171
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:22:09.808
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:24:19.115
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:24:19.759
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:25:17.438
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:25:18.081
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:27:08.203
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:27:08.856
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:28:21.851
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'
+
+!ENTRY Activator 1 0 2022-03-18 00:28:22.494
+!MESSAGE Has main method computation for project 'spring-boot-coding-test-level-2'

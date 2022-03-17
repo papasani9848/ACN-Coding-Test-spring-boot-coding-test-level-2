@@ -1,0 +1,5 @@
+package com.accenture.codingtest.springbootcodingtest.service;
+
+public interface ProjectService {
+
+}

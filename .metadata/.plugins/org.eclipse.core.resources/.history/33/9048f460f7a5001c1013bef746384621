@@ -1,0 +1,21 @@
+package com.accenture.codingtest.springbootcodingtest.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.accenture.codingtest.springbootcodingtest.entity.User;
+import com.accenture.codingtest.springbootcodingtest.service.UserService;
+
+@RestController
+public class ResourceController {
+	@Autowired
+	private UserService UserService;
+	
+	@PostMapping("/userManagement/createUser")
+	public ResponseEntity<User> createUser( @RequestBody User user) { 
+		return ResponseEntity.ok(UserService.createUser(user));
+	}
+}

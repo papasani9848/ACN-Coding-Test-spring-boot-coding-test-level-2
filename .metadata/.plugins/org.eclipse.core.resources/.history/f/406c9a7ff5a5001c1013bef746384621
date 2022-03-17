@@ -1,0 +1,13 @@
+package com.accenture.codingtest.springbootcodingtest.service;
+
+import com.accenture.codingtest.springbootcodingtest.entity.User;
+
+public class UserServiceImpl implements UserService {
+
+	@Override
+	public User createUser(User user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}
